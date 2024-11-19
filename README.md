@@ -19,7 +19,7 @@
 - drew sketches for the detective, Baker and medic and implemented those temporarily in the game until the drawings are complete 
 - profile pictures of the characters that won will show up on the winning screen now 
 - player names of the players that won show up on the winning screen 
-- I have implemented some new code to the win condition function, hopefully fixing winning. It needs to be tested more.
+- I have implemented some new code to the win condition function, hopefully fixing winning. It needs to be tested more. I tested with it, but it does not like photon so it's a bit broken right now. It is not correctly getting the player alignments from the photon custom properties, even though other functions use it just fine. 
 
 - **To Do:**
 - As a player that likes dramatic elements, I want the game to have music and sound effects so that it adds to the aesthetic.  
