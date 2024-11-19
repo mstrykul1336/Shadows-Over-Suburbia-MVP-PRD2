@@ -1,6 +1,6 @@
 # Shadows Over Suburbia MVP PRD2
  Shadows Over Suburbia MVP PRD2
- Play: 
+ Play: https://mstrykul1336.github.io/Shadows-Over-Suburbia-MVP-PRD2/
  Full Project: https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
 **11/18/24**
 ***What was done:**
