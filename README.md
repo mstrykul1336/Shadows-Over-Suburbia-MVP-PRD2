@@ -4,21 +4,21 @@
  Full Project: https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
 **11/18/24**
 ***What was done:**
-- made the lighting more bright on the models in the model select screen 
-- changed F1 to left bracket and updated the controls image 
-- changed F3 to right bracket and updated the controls image 
-- added in two audio groups, music and SFX whose volume can be controlled with sliders by the player in the settings menu
-- added in music to the day cycle, night cycle, and voting time
+- As a player, I want the lighting on the models in the model select screen to be brighter so that I can see the details of each model more clearly.( made the lighting more bright on the models in the model select screen) 
+- As a player, I want the "F1" control to be updated to the left bracket key and reflected in the controls image so that the controls are easier to understand and use. (changed F1 to left bracket and updated the controls image )
+- As a player, I want the "F3" control to be updated to the right bracket key and reflected in the controls image so that the controls are easier to understand and use. (changed F3 to right bracket and updated the controls image )
+- As a player, I want separate audio groups for music and SFX with volume sliders in the settings menu so that I can customize my audio experience. (added in two audio groups, music and SFX whose volume can be controlled with sliders by the player in the settings menu)
+- As a player, I want music to play during the day cycle, night cycle, and voting time so that the game feels more immersive. (added in music to the day cycle, night cycle, and voting time)
 - added in sound effects for the timers going off, for the beginning of the night cycle animation and for the beginning of the day cycle animation
-- any other time timers go off, I made it play the timer sound effect 
+- As a player, I want sound effects to play when timers go off so that I am clearly alerted to changes in game phases. (any other time timers go off, I made it play the timer sound effect)
 - made it so it checks photon view before switching back to player camera, just so you don't get someone else's camera. It appears to work and now you get your own camera when it switches from main to the player. 
 - drew the old man's profile picture and implemented it into the game
 - drew the clairvoyant's profile picture and implemented it into the game
 - drew the villager's profile picture and implemented it into the game
 - drew the assistant's profile picture and implemented it into the game
 - drew sketches for the detective, Baker and medic and implemented those temporarily in the game until the drawings are complete 
-- profile pictures of the characters that won will show up on the winning screen now 
-- player names of the players that won show up on the winning screen 
+- As a player, I want the profile pictures of the characters that won to appear on the winning screen so that I can see which characters were victorious. (profile pictures of the characters that won will show up on the winning screen now )
+- As a player, I want the names of the players that won to appear on the winning screen so that I can identify the winning participants (player names of the players that won show up on the winning screen )
 - I have implemented some new code to the win condition function, hopefully fixing winning. It needs to be tested more. I tested with it, but it does not like photon so it's a bit broken right now. It is not correctly getting the player alignments from the photon custom properties, even though other functions use it just fine. 
 
 - **To Do:**
