@@ -1,2 +1,48 @@
 # Shadows Over Suburbia MVP PRD2
  Shadows Over Suburbia MVP PRD2
+ Play: 
+ Full Project: 
+**11/18/24**
+***What was done:**
+- made the lighting more bright on the models in the model select screen 
+- changed F1 to left bracket and updated the controls image 
+- changed F3 to right bracket and updated the controls image 
+- added in two audio groups, music and SFX whose volume can be controlled with sliders by the player in the settings menu
+- added in music to the day cycle, night cycle, and voting time
+- added in sound effects for the timers going off, for the beginning of the night cycle animation and for the beginning of the day cycle animation
+- any other time timers go off, I made it play the timer sound effect 
+- made it so it checks photon view before switching back to player camera, just so you don't get someone else's camera. It appears to work and now you get your own camera when it switches from main to the player. 
+- drew the old man's profile picture and implemented it into the game
+- drew the clairvoyant's profile picture and implemented it into the game
+- drew the villager's profile picture and implemented it into the game
+- drew the assistant's profile picture and implemented it into the game
+- drew sketches for the detective, Baker and medic and implemented those temporarily in the game until the drawings are complete 
+- profile pictures of the characters that won will show up on the winning screen now 
+- player names of the players that won show up on the winning screen 
+- I have implemented some new code to the win condition function, hopefully fixing winning. It needs to be tested more.
+
+- **To Do:**
+- As a player that likes dramatic elements, I want the game to have music and sound effects so that it adds to the aesthetic.  
+
+As a player that likes dramatic elements, I want all of the characters to have their profile picture images so the game has more world building.  
+
+As a player that likes clean UI, I want the models on the select model screen to be in the right place.  
+
+As a player that likes challenge, I want the winning and losing to flow better and work properly for the conditions it should.  
+
+As a player that likes changing camera angles, I want to make sure that I am not changing someone else’s camera or using someone else’s camera in the game.  
+
+As a player that likes fast paced games, I want there to be more options for killing or attacking other players.  
+
+As a player that likes dramatic elements and winning, I want my profile picture and name to show up on the winning screen.  
+
+As a player that uses WebGL builds, I want to change any of the F keys to new key binds because WebGL builds will open a new tab with F1 and the find bar with F3. (This will require changes to the control images and changes to the code to change these key binds) 
+-
+**Drawings: (done by me for this project)**
+  ![clairvoyant final (20241117113000)](https://github.com/user-attachments/assets/33f74556-bfe4-4169-bf10-96705482320c)
+  
+ ![villagerfinal (20241118024914)](https://github.com/user-attachments/assets/585ccb65-9779-4df0-9cdd-f1253cb708fe)
+ ![oldmsnfinsl (20241117124942)](https://github.com/user-attachments/assets/e97aae3d-7c6f-4706-a439-b3f026fd390e)
+ ![mayorfinal (20241111035655)](https://github.com/user-attachments/assets/f466a0a3-c622-42fc-985f-cc846ed3d83c)
+ ![assistant final (20241114012922)](https://github.com/user-attachments/assets/b97a60ca-7a6e-47f6-9529-4ff7d4225c47)
+
